@@ -24,3 +24,14 @@
   <a href="https://www.luigi domenico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ![Luigi GitHub stats](https://github-readme-stats.vercel.app/api?username=Luigi-domenico&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi-domenico&layout=compact&theme=tokyonight)
+
+
+me seeegue nas redes sociais
+
+intagran-https://www.instagram.com/luigidomenicovalarini/
+
+facebook-https://www.facebook.com/luigi.valarini?locale=pt_BR
+
+youtube-https://www.youtube.com/@Luigidomenico2.o0
+
+linkedin-https://www.linkedin.com/in/luigi-domenico-29b10a1b0/
