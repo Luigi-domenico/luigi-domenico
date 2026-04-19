@@ -30,7 +30,7 @@ me chamo luigi ante domenico valarini minha origem é de piracicaba sp, adoro te
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/Luigi-domenico"
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
